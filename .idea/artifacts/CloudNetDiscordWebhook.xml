@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CloudNetDiscordWebhook">
+    <output-path>$PROJECT_DIR$/out/artifacts/CloudNetDiscordWebhook</output-path>
+    <root id="archive" name="CloudNetDiscordWebhook.jar">
+      <element id="module-output" name="CloudNetDiscordWebhook.main" />
+    </root>
+  </artifact>
+</component>

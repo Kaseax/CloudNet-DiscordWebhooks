@@ -1,0 +1,9 @@
+{
+  "group": "net.kaseax.cloudnetwebhook",
+  "name": "CloudNet-DiscordWebhooks",
+  "version": "1.0",
+  "author": "Kaseax",
+  "main": "net.kaseax.cloudnetwebhook.CloudNetWebhook",
+  "description": "CloudNet extension which adds discord webhooks on Event-Calls",
+  "dataFolder": "modules/CloudNet-Webhooks-Discord"
+}

@@ -1,0 +1,18 @@
+plugins {
+    id 'java'
+}
+
+group 'net.kaseax'
+version '1.0.0'
+
+repositories {
+    mavenCentral()
+    maven { url 'https://repo.cloudnetservice.eu/repository/releases/' }
+}
+
+dependencies {
+    implementation 'de.dytanic.cloudnet:cloudnet:3.4.0-RELEASE'
+    implementation 'de.dytanic.cloudnet:cloudnet-driver:3.4.0-RELEASE'
+    implementation 'de.dytanic.cloudnet:cloudnet-cloudperms:3.4.0-RELEASE'
+}
+
